@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I'm currently a CS (computer science) master student in Beihang University.
+- My research interests cover high performance computing, machine learning systems (training/inference optimization) and low-level architecture-related performance optimization.
+- I'm currently working on LLM inference acceleration and deep learning code generation.
+- Reach me at: fty1777@live.com / tian.yu.feng@outlook.com
 <!--
 **fty1777/fty1777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
