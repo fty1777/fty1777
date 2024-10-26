@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm currently a second year CS (computer science) master student in Beihang University.
+- I'm currently a third-year CS (computer science) master student in Beihang University.
 - My research interests cover high performance computing, machine learning systems (training/inference optimization), low-level architecture-related performance optimization and performance tools.
 - I'm currently working on LLM/LoRA/multimodal inference acceleration and high-performance sparse kernels on both CPU and GPU.
 - My Site: [fty1777.github.io](https://fty1777.github.io)
