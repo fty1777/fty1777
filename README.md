@@ -3,7 +3,7 @@
 - I'm currently a third-year CS (computer science) master student in Beihang University.
 - My research interests cover high performance computing, machine learning systems (training/inference optimization), low-level architecture-related performance optimization and performance tools.
 - I'm currently working on LLM/LoRA/multimodal inference acceleration and high-performance sparse kernels on both CPU and GPU.
-- My Site: [fty1777.github.io](https://fty1777.github.io)
+- My Site: [www.fengtianyu.com](https://www.fengtianyu.com)
 - Reach me at: fty1777@live.com / tian.yu.feng@outlook.com
 <!--
 **fty1777/fty1777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
