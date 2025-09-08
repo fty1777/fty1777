@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- I'm currently a third-year CS (computer science) master student in Beihang University.
-- My research interests cover high performance computing, machine learning systems (training/inference optimization), low-level architecture-related performance optimization and performance tools.
-- I'm currently working on LLM/LoRA/multimodal inference acceleration and high-performance sparse kernels on both CPU and GPU.
+- I'm currently a Year 1 PhD student in Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST).
+- My research interests cover machine learning systems (training/inference optimization), high performance computing and low-level architecture-related performance optimization.
+- I'm currently working on Diffusion-based model pretraining / multimodal inference acceleration and high-performance sparse kernels on GPUs.
 - My Site: [www.fengtianyu.com](https://www.fengtianyu.com)
 - Reach me at: fty1777@live.com / tian.yu.feng@outlook.com
 <!--
